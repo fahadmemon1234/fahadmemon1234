@@ -39,4 +39,4 @@ Here are some ideas to get you started: -->
 ![Muhammad Fahad Memon Github Stats](https://github-readme-stats.vercel.app/api?username=fahadmemon1234&show_icons=true&theme=radical)
 
 ### Top Languages Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmemon1234)](https://github.com/fahadmemon1234/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmemon1234)]
