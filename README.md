@@ -50,6 +50,10 @@ Here are some ideas to get you started: -->
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahadmemon1234&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 -->
 
-### Top Languages Card
+<!--### Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmemon1234)](https://github.com/fahadmemon1234/github-readme-stats)
+-->
+### Top Languages Card
+<img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadmemon1234&layout=compact&langs_count=8&theme=algolia"/>
+
 
