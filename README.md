@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 ## Connect with me:
 
 [<img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/>][linkedin]
-[instagram]: https://www.instagram.com/fahad_graphicx/
+[<img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/>][instagram]
 
 
 ### Languages and Tools:
@@ -31,7 +31,7 @@ Here are some ideas to get you started: -->
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/fahad_memon_graphic_designer/
+[instagram]: https://www.instagram.com/fahad_graphicx/
 [linkedin]: https://www.linkedin.com/in/muhammad-fahad-memon-53b9b2248/
 
 
