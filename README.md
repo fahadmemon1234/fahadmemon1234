@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 ## Connect with me:
 
 [<img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/>][linkedin]
-[<img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/>][instagram]
+[<img src="https://www.instagram.com/fahad_graphicx/"/>][instagram]
 
 
 ### Languages and Tools:
