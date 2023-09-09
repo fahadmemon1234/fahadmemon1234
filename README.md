@@ -15,6 +15,7 @@ Here are some ideas to get you started: -->
 
 [<img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/>][linkedin]
 [<img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/>][instagram]
+[<img src="https://img.shields.io/badge/facebook-%1877F1F1?style=flat&logo=facebook&logoColor=white"/>][facebook]
 
 
 ### Languages and Tools:
