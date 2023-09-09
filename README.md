@@ -46,6 +46,10 @@ Here are some ideas to get you started: -->
 ###  Github Stats
 ![Muhammad Fahad Memon Github Stats](https://github-readme-stats.vercel.app/api?username=fahadmemon1234&show_icons=true&theme=radical)
 
+<!--###  Github Stats
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahadmemon1234&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+-->
+
 ### Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmemon1234)](https://github.com/fahadmemon1234/github-readme-stats)
 
