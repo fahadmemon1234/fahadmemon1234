@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on a HTML CSS BOOTSTRAP!
+- 🔭 I’m currently working on a HTML CSS BOOTSTRAP REACT.JS!
 - 🌱 I’m currently learning Backend with Javascript, C#(ASP.NET)! 
 - 👯 I’m looking to collaborate with other content creators and developers
 
