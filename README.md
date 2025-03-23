@@ -42,7 +42,7 @@ I am a **dynamic and results-driven Software Engineer** with over **3 years of e
 
 ![Muhammad Fahad Memon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahadmemon1234&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadmemon1234&layout=compact&langs_count=8&theme=algolia)  
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadmemon1234&layout=compact&langs_count=8&theme=algolia)
 
 ---
 
