@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#f97316;">Muhammad Fahad Memon</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Graphic+Designer;React.js+%7C+Next.js+%7C+ASP.NET+%7C+Tailwind+CSS;Let's+Build+Impactful+Digital+Solutions!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Graphic+Designer;React.js+%7C+Next.js+%7C+ASP.NET+%7C+Tailwind+CSS;Let's+Build+Impactful+Digital+Solutions!+🚀" alt="Typing SVG" />
 </p>
 
 
