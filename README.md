@@ -51,15 +51,15 @@
 
 ## 🚀 Featured Projects
 
-### 💼 [Accounting Hub](https://github.com/fahadmemon1234)
+### 💼 [Accounting Hub](https://dev-server-account.web.app)
 > A React-based financial management system for enhanced budgeting and usability.  
 🛠 React.js · Firebase · Tailwind CSS
 
-### 🎁 [Donation Admin Portal](https://github.com/fahadmemon1234)
+### 🎁 [Donation Admin Portal](https://donation-app-123.web.app)
 > A complete donation tracking dashboard to manage donor entries and analytics.  
 🛠 React.js · Firebase · Responsive Design
 
-### 🏫 [School Management System](https://github.com/fahadmemon1234)
+### 🏫 [School Management System](https://school-management-system-1231.vercel.app)
 > A real-world solution to manage school data: students, fees, salaries & more using Firebase.  
 🛠 Next.js · Firebase · Realtime Database
 
