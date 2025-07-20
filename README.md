@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#f97316;">Muhammad Fahad Memon</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Graphic+Designer;React.js+%7C+Next.js+%7C+ASP.NET+%7C+Tailwind+CSS;Let's+Build+Impactful+Digital+Solutions!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Graphic+Designer;React.js+%7C+Next.js+%7C+ASP.NET+%7C+Python+%7C+Tailwind+CSS;Let's+Build+Impactful+Digital+Solutions!+🚀" alt="Typing SVG" />
 </p>
 
 
@@ -11,8 +11,8 @@
 
 🎓 I'm a passionate **Software Engineer** from **Hyderabad, Pakistan** with over **3 years of experience** in:
 
-- Full-Stack Web Development (React.js, Next.js, ASP.NET MVC)
-- Backend Engineering with C#, SQL Server & Firebase
+- Full-Stack Web Development (React.js, Next.js, ASP.NET MVC, Python)
+- Backend Engineering with C#, Python, SQL Server & Firebase
 - Creative Graphic Design for impactful branding
 
 💼 I’m currently working at **AppsXone IT Solutions** as a **Frontend & Backend Developer**  
@@ -36,6 +36,7 @@
 ### 🔧 Backend & DB
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
