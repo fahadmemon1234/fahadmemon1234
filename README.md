@@ -1,86 +1,75 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43,200:2c5364&height=200&section=header&text=Muhammad%20Fahad%20Memon&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=MUHAMMAD%20FAHAD%20MEMON&fontSize=50&animation=fadeIn&fontAlignY=40" />
 </p>
+
+<div align="center">
+  
+  ### 🚀 **Full-Stack Software Engineer | Senior Graphic Designer**
+  *Crafting High-Performance Digital Solutions with Precision & Creativity*
+  
+  [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadfahadmemon)
+  [![Portfolio](https://img.shields.io/badge/View-Portfolio-FF4B11?style=for-the-badge&logo=react)](https://fahad-graphic-and-developer.web.app)
+  [![WhatsApp](https://img.shields.io/badge/Message-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+923153268177)
+
+</div>
+
+---
+
+## 💎 **The Professional Profile**
+
+[cite_start]I am a **Freelance Full-Stack Software Engineer** and **Graphic Designer**[cite: 21, 25]. [cite_start]I help startups and businesses build high-performance web applications and modern UI/UX designs that are scalable and business-focused.
+
+* [cite_start]**Current Role**: Full-Stack Developer at **AppsXone IT Solutions**[cite: 48, 50, 56].
+* [cite_start]**Expertise**: Developing robust back-end systems using **C# and .NET on Azure**[cite: 53].
+* [cite_start]**Impact**: Helped local businesses acquire **40% more customers** through optimized SEO and UX[cite: 76].
+* [cite_start]**Education**: Pursuing Bachelor's in **Computer Software Engineering**[cite: 124].
+
+---
+
+## 🛠 **Core Arsenal**
+
+### 💻 **Software Engineering**
+| **Field** | **Technologies** |
+| :--- | :--- |
+| **Frontend** | [cite_start]React.js, Next.js, HTML/CSS, JavaScript [cite: 59, 75] |
+| **Backend** | [cite_start]C#, .NET, API Integration [cite: 53] |
+| **Cloud & DB** | [cite_start]Azure, Firebase, Database Optimization [cite: 53, 75] |
+
+### 🎨 **Creative Design**
+| **Focus** | **Tools** |
+| :--- | :--- |
+| **Visuals** | [cite_start]Visual Branding, Marketing Materials, Motion Graphics [cite: 10, 11, 66] |
+| **Design Suite** | [cite_start]Adobe Creative Suite, Photoshop, Illustrator, After Effects [cite: 89, 109, 119] |
+| **Experience** | [cite_start]UI/UX Design for Web and Mobile Applications [cite: 84, 106, 116] |
+
+---
+
+## 📈 **Professional Milestones**
+
+* [cite_start]**AppsXone IT Solutions**: Optimized databases and integrated APIs for secure web applications[cite: 53].
+* [cite_start]**Visionary Arc Films**: Delivered professional branding and promotional visuals as Senior Graphic Designer[cite: 63, 66].
+* [cite_start]**Fahad Graphic & Developer**: Managed the full project cycle from design to deployment for 3+ years[cite: 70, 78, 81].
+* [cite_start]**Educational Platforms**: Designed UI/UX for digital learning at Arena Multimedia and Awais Institute[cite: 106, 116].
+
+---
+
+## 🏆 **Certifications**
+* [cite_start]**Foundational C#** with Microsoft[cite: 18].
+* [cite_start]**Front End Development Libraries**[cite: 16].
+* [cite_start]**LinkedIn Marketing Solutions** Fundamentals[cite: 19].
+* [cite_start]**Graphic Design** & Web/Mobile Application Certifications[cite: 16, 17].
+
+---
+
+## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;Modern+Web+Developer;Senior+Graphic+Designer;Building+Scalable+Digital+Solutions+🚀" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadmemon1234&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmemon1234&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Langs" />
 </p>
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammadfahadmemon">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://fahad-graphic-and-developer.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF4B11?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f2027&height=100&section=footer&text=Let's%20Build%20Something%20Exceptional&fontSize=30&animation=fadeIn" />
 </p>
-
----
-
-## 🧑‍💻 About Me
-
-[cite_start]A results-driven **Freelance Full-Stack Software Engineer & Graphic Designer** based in Hyderabad, Pakistan[cite: 21, 52]. [cite_start]I specialize in bridging the gap between robust backend systems and intuitive user interfaces[cite: 53, 55].
-
-* [cite_start]🔭 **Currently:** Working as a **Backend & Frontend Developer** at **AppsXone IT Solutions**[cite: 48, 50, 56].
-* [cite_start]🚀 **Entrepreneurship:** Leading **Fahad Graphic & Developer**, helping businesses achieve 40% growth through optimized web solutions[cite: 70, 76].
-* [cite_start]🎓 **Education:** Pursuing a Bachelor's in **Computer Software Engineering** (Class of 2025)[cite: 124].
-* [cite_start]⚡ **Focus:** High-performance web applications, scalable API integration, and modern branding[cite: 26, 53].
-
----
-
-## 🛠 Tech Stack & Expertise
-
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-### ⚙️ Backend & Cloud
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-### 🎨 Design & Branding
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI/UX-Design-FF61F6?style=flat-square)
-![Motion Graphics](https://img.shields.io/badge/Motion-Graphics-orange?style=flat-square)
-
----
-
-## 💼 Professional Highlights
-
-| Company | Role | Impact |
-| :--- | :--- | :--- |
-| **AppsXone IT Solutions** | Full-Stack Developer | [cite_start]Developed robust backend systems using C#/.NET on Azure. |
-| **Visionary Arc Films** | Senior Graphic Designer | [cite_start]Created high-end branding and motion graphics[cite: 63, 66]. |
-| **Fahad Graphic & Developer**| Senior Frontend Lead | [cite_start]Boosted client customer acquisition by 40% via SEO & Performance[cite: 72, 76]. |
-
----
-
-## 📜 Certifications
-* [cite_start]**Foundational C# with Microsoft** – freeCodeCamp [cite: 18]
-* [cite_start]**Front End Development Libraries** – freeCodeCamp [cite: 16]
-* [cite_start]**LinkedIn Marketing Solutions Fundamentals** [cite: 19]
-
----
-
-## 📊 My GitHub Journey
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadmemon1234&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmemon1234&layout=compact&theme=radical" alt="Langs" />
-</p>
-
----
-
-## 🤝 Let's Connect
-<p align="left">
-<a href="mailto:islamdocumentory154@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:+923153268177"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
-> [cite_start]**"Let's build something simple, fast, and effective together."** [cite: 46]
