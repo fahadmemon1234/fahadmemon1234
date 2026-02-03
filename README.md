@@ -81,9 +81,26 @@ I help startups and businesses turn ideas into reliable products by combining ba
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadmemon1234&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmemon1234&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=fahadmemon1234&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmemon1234&layout=compact&theme=tokyonight&hide_border=true"
+    height="150"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fahadmemon1234&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
 
 ---
 
