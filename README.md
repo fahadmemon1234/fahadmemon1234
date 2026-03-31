@@ -1,230 +1,200 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2B4A,50:1e3a6e,100:1A2B4A&height=220&section=header&text=Muhammad%20Fahad%20Memon&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%26%20AI%20Solutions%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20ASP.NET%20Core%20%7C%20Agentic%20AI&descSize=15&descAlignY=63&animation=fadeIn" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1400&color=C9A84C&center=true&vCenter=true&width=900&lines=OpenAI+%7C+Agentic+AI+%7C+Claude+%7C+Gemini;Kafka+%26+Event-Driven+Architecture;Kubernetes+%26+Cloud+Deployment;React+%7C+Next.js+%7C+ASP.NET+Core+%7C+Node.js" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Fahad%20Memon&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Solutions%20Developer&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammadfahadmemon">
-    <img src="https://img.shields.io/badge/LinkedIn-1A2B4A?style=for-the-badge&logo=linkedin&logoColor=C9A84C" />
-  </a>
-  &nbsp;
-  <a href="https://fahad-graphic-and-developer.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-1A2B4A?style=for-the-badge&logo=vercel&logoColor=C9A84C" />
-  </a>
-  &nbsp;
-  <a href="mailto:islamdocumentory154@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1A2B4A?style=for-the-badge&logo=gmail&logoColor=C9A84C" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/923153268177">
-    <img src="https://img.shields.io/badge/WhatsApp-1A2B4A?style=for-the-badge&logo=whatsapp&logoColor=C9A84C" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=fahadmemon1234&style=for-the-badge&color=1A2B4A&label=PROFILE+VIEWS" />
-</p>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=React+%7C+Next.js+%7C+ASP.NET+Core+%7C+Node.js;OpenAI+%7C+Claude+%7C+Gemini+%7C+Agentic+AI;Building+Intelligent+%26+Scalable+Web+Systems;From+Hyderabad%2C+Pakistan+%E2%80%94+Working+Globally+%F0%9F%8C%8D)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## ◈ About Me
+<div align="center">
 
-I'm a **Full-Stack & AI Solutions Developer** with **3+ years** of experience building scalable, performance-driven web applications and intelligent systems for global clients.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Fahad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadfahadmemon)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://fahad-graphic-anddeveloper.web.app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Hire%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923153268177)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islamdocumentory154@gmail.com)
 
-I specialize in **React, Next.js, ASP.NET Core**, and AI agent platforms including **OpenAI, Agentic AI, Claude, and Gemini** — combining system thinking with practical engineering to deliver end-to-end solutions that are fast, secure, and production-ready.
-
-> *"Every layer — from front-end to backend to AI automation — should work seamlessly together."*
-
----
-
-## ◈ Top Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⭐_OpenAI_%2F_Agentic_AI-1A2B4A?style=for-the-badge&logoColor=C9A84C" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/⭐_Kafka_%26_Event--Driven_Architecture-1A2B4A?style=for-the-badge&logoColor=C9A84C" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/⭐_Kubernetes_%26_Cloud_Deployment-1A2B4A?style=for-the-badge&logoColor=C9A84C" />
-</p>
+</div>
 
 ---
 
-## ◈ Full Tech Stack
+## 👨‍💻 About Me
 
-### 🤖 AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![MCP Server](https://img.shields.io/badge/MCP_Server-1A2B4A?style=flat-square&logoColor=white)
+```typescript
+const fahad = {
+  role: "Full-Stack & AI Solutions Developer",
+  location: "Hyderabad, Sindh, Pakistan 🇵🇰",
+  experience: "3+ years",
+  
+  currentFocus: [
+    "Agentic AI Systems",
+    "Scalable Web Architecture",
+    "AI Automation Workflows",
+  ],
 
-### 🖥 Frontend
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+  stack: {
+    frontend:  ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend:   ["ASP.NET Core", "Node.js", "REST APIs"],
+    ai:        ["OpenAI", "Claude", "Gemini", "LangChain"],
+    databases: ["SQL Server", "MySQL", "MongoDB"],
+    cloud:     ["Azure", "Firebase", "Kubernetes", "CI/CD"],
+  },
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  philosophy: "Clean architecture. Intelligent systems. Real results.",
+  availableForWork: true,
+};
+```
 
-### 📨 Event-Driven Architecture
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Event Driven](https://img.shields.io/badge/Event--Driven_Architecture-1A2B4A?style=flat-square&logoColor=white)
+---
 
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+## 🚀 What I Build
 
-### 🔐 Auth & Security
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white)
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Web Apps
+Scalable, secure, production-grade applications using **React**, **Next.js**, and **ASP.NET Core** — with clean architecture, JWT auth, and optimized APIs.
+
+</td>
+<td width="50%">
+
+### 🤖 AI-Powered Solutions
+End-to-end **Agentic AI** systems using OpenAI, Claude, and Gemini — automating workflows, integrating LLMs into enterprise platforms.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ Real-Time Systems
+Event-driven architectures with **Kafka**, live dashboards, and **WebSocket** integrations for high-throughput applications.
+
+</td>
+<td width="50%">
 
 ### ☁️ Cloud & DevOps
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+Deployments on **Azure** and **Firebase** with **Kubernetes** orchestration, CI/CD pipelines, and production monitoring.
 
----
-
-## ◈ Professional Experience
-
-<table>
-<tr>
-<td width="72%">
-
-### 🏢 AI Solutions Developer — AppsXone IT Solutions
-`Sep 2025 – Present  •  Hyderabad, Pakistan`
-
-- Built AI-powered automation workflows, improving operational efficiency for enterprise clients
-- Integrated OpenAI, Agentic AI, Claude & Gemini agents into scalable web platforms
-- Optimized AI models and APIs for performance, scalability, and real-time results
-- Consulted international clients on intelligent system design & implementation
-
-</td>
-<td width="28%" align="center">
-<br/>
-<img src="https://img.shields.io/badge/AI-Solutions-1A2B4A?style=for-the-badge&logoColor=C9A84C" /><br/><br/>
-<img src="https://img.shields.io/badge/Sep_2025-Present-C9A84C?style=flat-square" />
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="72%">
-
-### 🏢 Full Stack Developer — AppsXone IT Solutions
-`Oct 2023 – Present  •  Hyderabad, Pakistan`
-
-- Built scalable web apps using React.js, Next.js, ASP.NET Core, Node.js & TypeScript
-- Designed and integrated REST APIs; managed SQL Server, MySQL & MongoDB
-- Implemented JWT authentication and secure workflows for international clients
-- Delivered projects on time while enhancing UX and platform scalability
-
-</td>
-<td width="28%" align="center">
-<br/>
-<img src="https://img.shields.io/badge/Full--Stack-Dev-1A2B4A?style=for-the-badge&logoColor=C9A84C" /><br/><br/>
-<img src="https://img.shields.io/badge/Oct_2023-Present-C9A84C?style=flat-square" />
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="72%">
-
-### 🏢 Full Stack Developer — Fahad Graphic & Developer *(Founder)*
-`Jan 2023 – Aug 2024  •  Pakistan`
-
-- Delivered end-to-end web projects for global freelance clients
-- Developed responsive apps with React.js, Next.js, ASP.NET Core, Node.js & TypeScript
-- Built REST APIs and managed multi-database systems
-- Designed modern UIs with Tailwind CSS, Bootstrap 5 & jQuery
-
-</td>
-<td width="28%" align="center">
-<br/>
-<img src="https://img.shields.io/badge/Founder-Freelance-1A2B4A?style=for-the-badge&logoColor=C9A84C" /><br/><br/>
-<img src="https://img.shields.io/badge/Jan_2023-Aug_2024-C9A84C?style=flat-square" />
 </td>
 </tr>
 </table>
 
 ---
 
-## ◈ Education & Certifications
+## 🛠️ Tech Stack
 
-| | |
-|:---|---:|
-| 🎓 **B.S. Computer Software Engineering** — CMS College of Modern Sciences | `Jan 2025 – Present` |
-| 🤖 **Agentic AI & Spec-Driven Development** — Governor Sindh GenAI Initiative | `Mar 2024 – Present` |
-| 🏥 **Pre-Medical Studies** — Ghulam Hussain Hidayatullah | `Jan 2021 – Jun 2023` |
-| ✅ **Front End Development Libraries** — freeCodeCamp | Certified |
-| ✅ **Web and Mobile Application** | Certified |
-| ✅ **Foundational C# with Microsoft** — Microsoft | Certified |
-| ✅ **LinkedIn Marketing Solutions Fundamentals** — LinkedIn | Certified |
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+### Backend & APIs
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-## ◈ Languages
+### AI & Integrations
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-🇵🇰 **Urdu** — Full Professional &nbsp;&nbsp; | &nbsp;&nbsp; 🇬🇧 **English** — Professional Working
+### Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-## ◈ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadmemon1234&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9A84C&icon_color=C9A84C&text_color=e2e8f0" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmemon1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9A84C&text_color=e2e8f0" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadmemon1234&theme=tokyonight&hide_border=true&background=0d1117&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadmemon1234&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=C9A84C&line=1A2B4A&point=C9A84C" />
-</p>
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## ◈ Let's Build Something Exceptional
+## 📈 GitHub Analytics
 
-I help international businesses scale their digital platforms and implement intelligent, automation-driven systems. If you need high-performance web solutions or AI agent integration — let's connect.
+<div align="center">
 
-<p align="center">
-  <a href="mailto:islamdocumentory154@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-1A2B4A?style=for-the-badge&logo=gmail&logoColor=C9A84C" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhammadfahadmemon">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-1A2B4A?style=for-the-badge&logo=linkedin&logoColor=C9A84C" />
-  </a>
-  &nbsp;
-  <a href="https://fahad-graphic-and-developer.web.app">
-    <img src="https://img.shields.io/badge/View%20Portfolio-1A2B4A?style=for-the-badge&logo=vercel&logoColor=C9A84C" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=fahadmemon1234&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0d0b1a&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="180" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2B4A,50:1e3a6e,100:1A2B4A&height=120&section=footer&animation=fadeIn" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmemon1234&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0b1a&title_color=a78bfa&text_color=ffffff" height="180" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadmemon1234&theme=midnight-purple&hide_border=true&background=0d0b1a&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" height="180" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadmemon1234&bg_color=0d0b1a&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer |
+|---|---|
+| 🎯 Agentic AI — Spec Driven Development | Governor Sindh Initiative |
+| 🏅 Foundational C# | Microsoft |
+| 📚 Front-End Development Libraries | freeCodeCamp |
+| 📱 Web & Mobile Application Development | — |
+| 📊 LinkedIn Marketing Solutions Fundamentals | LinkedIn |
+
+---
+
+## 💼 Professional Journey
+
+```
+AppsXone IT Solutions
+├── 🤖 AI Solutions Developer      [Sep 2025 – Present]
+│   ├── Agentic AI workflows with OpenAI, Claude & Gemini
+│   ├── LLM integration into enterprise web apps
+│   └── AI consultation for international clients
+│
+└── 💻 Full-Stack Developer        [Oct 2023 – Present]
+    ├── React / Next.js / ASP.NET Core apps
+    ├── REST API design & SQL/NoSQL databases
+    └── JWT auth, CI/CD, cloud deployments
+
+Fahad Graphic & Developer (Founder)
+└── 🚀 Full-Stack Developer        [Jan 2023 – Aug 2024]
+    ├── End-to-end freelance web projects
+    ├── Client delivery from design to deployment
+    └── React, Next.js, Node.js, MongoDB
+```
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+> 💡 *Open to remote full-time roles, freelance contracts, and AI consulting projects.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadfahadmemon)
+[![Portfolio](https://img.shields.io/badge/View%20My-Portfolio-7C3AED?style=for-the-badge&logo=vercel)](https://fahad-graphic-anddeveloper.web.app)
+[![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/923153268177)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Building%20the%20Future%2C%20One%20Commit%20at%20a%20Time&fontSize=16&fontColor=a78bfa&animation=fadeIn" />
+
+</div>
