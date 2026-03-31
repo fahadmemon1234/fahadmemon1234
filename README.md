@@ -89,48 +89,53 @@ Deployments on **Azure** and **Firebase** with **Kubernetes** orchestration, CI/
 
 ## 🛠️ Tech Stack
 
-◈ Full Tech Stack
-🤖 AI & Automation
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-🖥 Frontend
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-⚙️ Backend
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-📨 Event-Driven Architecture
-Show Image
-Show Image
-🗄 Database
-Show Image
-Show Image
-Show Image
-Show Image
-🔐 Auth & Security
-Show Image
-Show Image
-☁️ Cloud & DevOps
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+### 🤖 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![MCP Server](https://img.shields.io/badge/MCP_Server-1A2B4A?style=flat-square&logoColor=white)
+
+### 🖥 Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### 📨 Event-Driven Architecture
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Event Driven](https://img.shields.io/badge/Event--Driven_Architecture-1A2B4A?style=flat-square&logoColor=white)
+
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### 🔐 Auth & Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
