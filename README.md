@@ -151,7 +151,7 @@ Deployments on **Azure** and **Firebase** with **Kubernetes** orchestration, CI/
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadmemon1234&theme=midnight-purple&hide_border=true&background=0d0b1a&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" height="180" />
+<img src="https://streak-stats.demolab.com?user=fahadmemon1234&theme=midnight-purple&hide_border=true&background=0d0b1a&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" height="180" />
 
 </div>
 
