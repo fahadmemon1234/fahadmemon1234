@@ -16,32 +16,32 @@
 
 ## ⚡ The Strategic Edge
 
-I don't just build websites; I engineer **Intelligent Ecosystems**. [cite_start]With a focus on **Agentic AI** and **Clean Architecture**, I help global businesses automate complex operations and scale without technical debt[cite: 7, 72, 73].
+I don't just build websites; I engineer **Intelligent Ecosystems**. With a focus on **Agentic AI** and **Clean Architecture**, I help global businesses automate complex operations and scale without technical debt.
 
-* [cite_start]**Intelligence:** Designing autonomous AI Agents (OpenAI, Claude, Gemini) that execute real-world tasks[cite: 77, 92].
-* [cite_start]**Performance:** Leveraging **Kafka** and **Event-Driven Architecture** for high-throughput, real-time systems[cite: 64].
-* [cite_start]**Reliability:** Following **Spec-Driven Development** to ensure 99.9% codebase maintainability[cite: 108, 122].
+* **Intelligence:** Designing autonomous AI Agents (OpenAI, Claude, Gemini) that execute real-world tasks.
+* **Performance:** Leveraging **Kafka** and **Event-Driven Architecture** for high-throughput, real-time systems.
+* **Reliability:** Following **Spec-Driven Development** to ensure 99.9% codebase maintainability.
 
 ---
 
 ## 🛠️ Specialized Technical Stack
 
 ### 🤖 Intelligence & Autonomy
-[cite_start]`Agentic AI` `OpenAI SDK` `Claude CLI` `Gemini CLI` `LangChain` `Qwen CLI` `MCP Server` [cite: 63, 77, 92]
+`Agentic AI` `OpenAI SDK` `Claude CLI` `Gemini CLI` `LangChain` `Qwen CLI` `MCP Server`
 
 ### 🌐 Enterprise Full-Stack
-* [cite_start]**Frontend:** React.js, Next.js (App Router), TypeScript, Tailwind CSS, Redux[cite: 104, 106].
-* [cite_start]**Backend:** ASP.NET Core, Node.js, FastAPI, Python, MVC C#[cite: 104, 118].
-* [cite_start]**Infrastructure:** Kubernetes, Docker, Azure, Firebase, CI/CD Pipelines[cite: 65, 83].
+* **Frontend:** React.js, Next.js (App Router), TypeScript, Tailwind CSS, Redux.
+* **Backend:** ASP.NET Core, Node.js, FastAPI, Python, MVC C#.
+* **Infrastructure:** Kubernetes, Docker, Azure, Firebase, CI/CD Pipelines.
 
 ---
 
 ## 📂 Featured Implementations
 
 ### 🤖 Autonomous Workflow Engine — AppsXone
-* [cite_start]**Problem:** Manual enterprise processes causing bottlenecks[cite: 91].
-* [cite_start]**Solution:** Built a tiered Agentic AI system that automates decision-making workflows[cite: 94].
-* [cite_start]**Impact:** Reduced manual processing time by **40%** for international clients[cite: 19, 20].
+* **Problem:** Manual enterprise processes causing bottlenecks.
+* **Solution:** Built a tiered Agentic AI system that automates decision-making workflows.
+* **Impact:** Reduced manual processing time by **40%** for international clients.
 
 ### 🌟 Project Aurum — Luxury Booking Architecture
 * **Problem:** High-end service providers requiring an artisanal digital presence.
@@ -54,11 +54,11 @@ I don't just build websites; I engineer **Intelligent Ecosystems**. [cite_start]
 
 | Certification | Credential Provider |
 | :--- | :--- |
-| **Agentic AI — Spec Driven Development** | [cite_start]Governor Sindh Initiative [cite: 129] |
-| [cite_start]**Foundational C# (With Microsoft)** | freeCodeCamp / Microsoft [cite: 70] |
-| [cite_start]**Front End Development Libraries** | freeCodeCamp [cite: 70] |
-| **Web & Mobile Application Development** | [cite_start]SMIT [cite: 70] |
-| **LinkedIn Marketing Solutions Fundamentals** | [cite_start]LinkedIn [cite: 70] |
+| **Agentic AI — Spec Driven Development** | Governor Sindh Initiative |
+| **Foundational C# (With Microsoft)** | freeCodeCamp / Microsoft |
+| **Front End Development Libraries** | freeCodeCamp |
+| **Web & Mobile Application Development** | SMIT |
+| **LinkedIn Marketing Solutions Fundamentals** | LinkedIn |
 
 ---
 
@@ -79,9 +79,9 @@ I don't just build websites; I engineer **Intelligent Ecosystems**. [cite_start]
 
 ## 💼 Professional Roadmap
 
-* **AI Solutions Developer** | AppsXone IT Solutions | [cite_start]**2025 – Present** [cite: 90]
-* **Full Stack Developer** | AppsXone IT Solutions | [cite_start]**2023 – Present** [cite: 100]
-* **Founder & Full-Stack Lead** | Fahad Graphic & Developer | [cite_start]**2023 – 2024** [cite: 114]
+* **AI Solutions Developer** | AppsXone IT Solutions | **2025 – Present**
+* **Full Stack Developer** | AppsXone IT Solutions | **2023 – Present**
+* **Founder & Full-Stack Lead** | Fahad Graphic & Developer | **2023 – 2024**
 
 ---
 
@@ -91,9 +91,9 @@ I don't just build websites; I engineer **Intelligent Ecosystems**. [cite_start]
 
 | Channel | Contact Point |
 | :--- | :--- |
-| **LinkedIn** | [cite_start][Muhammad Fahad Memon](https://www.linkedin.com/in/muhammadfahadmemon) [cite: 58] |
-| **Direct WhatsApp** | [cite_start][+92 315 3268177](https://wa.me/923153268177) [cite: 56] |
-| **Professional Email** | [cite_start][islamdocumentory154@gmail.com](mailto:islamdocumentory154@gmail.com) [cite: 56] |
+| **LinkedIn** | [Muhammad Fahad Memon](https://www.linkedin.com/in/muhammadfahadmemon) |
+| **Direct WhatsApp** | [+92 315 3268177](https://wa.me/923153268177) |
+| **Professional Email** | [islamdocumentory154@gmail.com](mailto:islamdocumentory154@gmail.com) |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=a78bfa&height=2&section=footer&width=1000" />
