@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Muhammad%20Fahad%20Memon&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Solutions%20Developer%20%7C%20React%2C%20Next.js%2C%20ASP.NET%20Core%20%26%20Agentic%20AI&descAlignY=58&descSize=16&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Muhammad%20Fahad%20Memon&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Systems%20Architect%20%7C%20Agentic%20AI%20Specialist&descAlignY=58&descSize=20&descColor=a78bfa" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=950&lines=Building+Scalable+Web+%26+Intelligent+Systems+for+Global+Clients;40%+Reduction+in+Manual+Workflows+via+AI;Next.js+14+%2B+ASP.NET+Core+8+Enterprise+Expert;Engineering+Solutions+for+Global+Scale" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=40%+Reduction+in+Manual+Workflows+via+AI;Building+Production-Ready+Agentic+Systems;Next.js+14+%2B+ASP.NET+Core+8+Enterprise+Expert;Engineering+Solutions+for+Global+Scale" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadfahadmemon"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -39,12 +39,14 @@ I don't just build websites; I engineer **Intelligent Ecosystems**. With a focus
 ## 📂 Featured Implementations
 
 ### 🤖 Autonomous Workflow Engine — AppsXone
-* **Impact:** Built a tiered Agentic AI system that automates decision-making workflows.
-* **Result:** Achieved a **40% reduction** in manual processing time for international clients.
+* **Problem:** Manual enterprise processes causing bottlenecks.
+* **Solution:** Built a tiered Agentic AI system that automates decision-making workflows.
+* **Impact:** Reduced manual processing time by **40%** for international clients.
 
 ### 🌟 Project Aurum — Luxury Booking Architecture
-* **Focus:** Luxury artisanal dining platform with high-conversion "Golden Booking" flow.
-* **Architecture:** Optimized SQL performance with a premium Glassmorphism UI.
+* **Problem:** High-end service providers requiring an artisanal digital presence.
+* **Solution:** Engineered a premium dark-aesthetic platform with a custom "Golden Booking" flow.
+* **Focus:** Micro-interactions, Glassmorphism, and optimized SQL performance.
 
 ---
 
@@ -95,5 +97,5 @@ I don't just build websites; I engineer **Intelligent Ecosystems**. With a focus
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=a78bfa&height=2&section=footer&width=1000" />
-<p><i>Building Scalable Futures — One Commit at a Time.</i></p>
+<p><i>Crafting Scalable Futures — From Hyderabad to the World.</i></p>
 </div>
