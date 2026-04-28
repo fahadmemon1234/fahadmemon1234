@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadfahadmemon"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://fahad-graphic-anddeveloper.web.app"><img src="https://img.shields.io/badge/View_Global_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://fahad-memon-portfolio.vercel.app"><img src="https://img.shields.io/badge/View_Global_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://wa.me/923153268177"><img src="https://img.shields.io/badge/Direct_Consultation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
