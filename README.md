@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Muhammad%20Fahad%20Memon&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Solutions%20Developer&descAlignY=56&descSize=19&descColor=c4b5fd" />
+# 👋 Muhammad Fahad Memon
+### Full-Stack & AI Solutions Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=C4B5FD&center=true&vCenter=true&width=850&lines=Building+AI+Agents+that+do+real+work;Next.js+%2B+ASP.NET+Core+%2B+Python+in+production;Cutting+manual+workflows+by+40%25+for+clients;Open+to+remote+roles+%26+freelance+projects" />
+*Building AI agents and production web apps for clients across the US, UK, and Middle East*
 
 <br/>
 
@@ -67,15 +68,17 @@ I'm not chasing buzzwords. If an AI agent doesn't remove a manual step or a work
 
 ---
 
-## GitHub stats
+## GitHub activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fahadmemon1234&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0b1a&title_color=c4b5fd&icon_color=c4b5fd&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmemon1234&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0b1a&title_color=c4b5fd&text_color=ffffff" width="40%" />
+<img src="https://streak-stats.demolab.com?user=fahadmemon1234&theme=dark&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED" width="80%" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=fahadmemon1234&theme=midnight-purple&hide_border=true&background=0d0b1a&stroke=c4b5fd&ring=c4b5fd&fire=f59e0b" width="90%" />
+
+![Followers](https://img.shields.io/github/followers/fahadmemon1234?style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=fahadmemon1234&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -111,6 +114,5 @@ Open to remote roles and freelance projects — web apps, AI agent systems, or S
 | Email | [fahadmemon131@gmail.com](mailto:fahadmemon131@gmail.com) |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c4b5fd&height=2&section=footer&width=1000" />
-<p><i>Hyderabad, Pakistan — building for clients worldwide.</i></p>
+<sub>Hyderabad, Pakistan — building for clients worldwide.</sub>
 </div>
